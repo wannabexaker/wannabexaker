@@ -28,4 +28,4 @@ Anything creative, experimental, or technically challenging. If it's cool and in
 - Email: dimos.is.dev@gmail.com  
 
 ### ⚡ Fun Fact
-Τα πάντα ρει.
+Τα πάντα ρει - Παν μέτρων άριστον.
