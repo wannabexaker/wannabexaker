@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there 👋 I'm Ioannis
 
-<!--
-**wannabexaker/wannabexaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+Software Developer at **PeopleCert** with strong interest in modern backend, frontend, and infrastructure technologies. Focused on building scalable, clean, and production-ready systems.
 
-Here are some ideas to get you started:
+### 🚀 Currently Learning
+- Java Spring Boot  
+- React + TypeScript  
+- MongoDB  
+- SMTP & Mail Services  
+- CI/CD Pipelines & Automation  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 Open to Collaborations
+Looking to collaborate on projects related to:
+- Wireless Networking  
+- Cybersecurity & Ethical Hacking  
+- Web Application Development  
+- Game Development  
+
+### 🛡️ Seeking Practice & Growth
+Interested in hands-on cybersecurity practice (Blue Team / Red Team), especially with people who have solid networking knowledge and real-world scenarios mindset.
+
+### 💬 Ask Me About
+Anything creative, experimental, or technically challenging. If it's cool and innovative, I'm in.
+
+### 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/jiannisnw  
+- Email: dimos.is.dev@gmail.com  
+
+### ⚡ Fun Fact
+Τα πάντα ρει.
