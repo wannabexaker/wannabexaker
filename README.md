@@ -70,26 +70,33 @@ Anything creative, experimental, or technically challenging.
 
 ## 📫 Connect with Me
 
-<table align="left">
+<table border="0" cellpadding="15" cellspacing="0" align="center" width="100%">
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://linkedin.com/in/jiannisnw" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jiannisnw" height="30" width="40" /></a>
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="mailto:dimos.is.dev@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="30" width="40" title="Email me" /></a>
     </td>
   </tr>
 </table>
 
+<br/>
+<br/>
+
 ---
 
+<br/>
+<br/>
+
 ## 📈 GitHub Analytics & Stats
-<table align="center">
+
+<table border="0" cellpadding="15" cellspacing="0" align="center" width="100%">
   <tr>
-    <td>
+    <td align="center" width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wannabexaker&layout=compact&theme=dark&hide_border=true" height="165" />
     </td>
-    <td>
+    <td align="center" width="50%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=wannabexaker&theme=dark&hide_border=true" height="165" />
     </td>
   </tr>
