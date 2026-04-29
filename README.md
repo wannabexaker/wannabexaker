@@ -70,12 +70,9 @@ Anything creative, experimental, or technically challenging.
 
 ## 📫 Connect with Me
 
-<h3 align="left">Social & Contact:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jiannisnw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jiannisnw" height="30" width="40" /></a>
-&nbsp;&nbsp;
-<a href="mailto:dimos.is.dev@gmail.com"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="30" width="40" title="Email me" /></a>
-</p>
+<a href="https://linkedin.com/in/jiannisnw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jiannisnw" height="30" width="40" /></a> <a href="mailto:dimos.is.dev@gmail.com"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="30" width="40" title="Email me" /></a> </p>
+
 
 ---
 
