@@ -53,7 +53,10 @@ Looking for hands-on cybersecurity collaboration (Blue Team / Red Team) with str
 Anything creative, experimental, or technically challenging.
 
 ### 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/jiannisnw  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jiannisnw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jiannisnw" height="30" width="40" /></a>
+</p> 
 - Email: dimos.is.dev@gmail.com  
 
 ### ⚡ Fun Fact
