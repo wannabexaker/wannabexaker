@@ -84,7 +84,7 @@ Anything creative, experimental, or technically challenging.
 ---
 
 ## 📈 GitHub Analytics & Stats
-<table align="center">
+<table align="left">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wannabexaker&layout=compact&theme=dark&hide_border=true" height="165" />
