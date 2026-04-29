@@ -70,19 +70,30 @@ Anything creative, experimental, or technically challenging.
 
 ## 📫 Connect with Me
 
-<p align="center">
-<a href="https://linkedin.com/in/jiannisnw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jiannisnw" height="30" width="40" /></a>
-<a href="mailto:dimos.is.dev@gmail.com"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="30" width="40" title="Email me" /></a> 
-</p>
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://linkedin.com/in/jiannisnw" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jiannisnw" height="30" width="40" /></a>
+    </td>
+    <td align="center">
+      <a href="mailto:dimos.is.dev@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="30" width="40" title="Email me" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📈 GitHub Analytics & Stats
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wannabexaker&layout=compact&theme=dark&hide_border=true" height="170" />
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=wannabexaker&theme=dark&hide_border=true" height="170" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wannabexaker&layout=compact&theme=dark&hide_border=true" height="165" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=wannabexaker&theme=dark&hide_border=true" height="165" />
+    </td>
+  </tr>
+</table>
 
 ---
 
