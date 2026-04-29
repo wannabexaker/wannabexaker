@@ -70,7 +70,7 @@ Anything creative, experimental, or technically challenging.
 
 ## 📫 Connect with Me
 
-<table align="center">
+<table align="left">
   <tr>
     <td align="center">
       <a href="https://linkedin.com/in/jiannisnw" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jiannisnw" height="30" width="40" /></a>
@@ -84,7 +84,7 @@ Anything creative, experimental, or technically challenging.
 ---
 
 ## 📈 GitHub Analytics & Stats
-<table align="left">
+<table align="center">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wannabexaker&layout=compact&theme=dark&hide_border=true" height="165" />
