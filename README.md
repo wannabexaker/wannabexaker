@@ -52,9 +52,9 @@ Ask me about anything creative, experimental, or technically challenging.
       </a>
     </td>
     <td align="center">
-      <a href="mailto:dimos.is.dev@gmail.com">
-        <img src="https://img.shields.io/badge/Email-dimos.is.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-      </a>
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dimos.is.dev@gmail.com" target="_blank">
+  		<img src="https://img.shields.io/badge/Email-dimos.is.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+	  </a>
     </td>
   </tr>
 </table>
