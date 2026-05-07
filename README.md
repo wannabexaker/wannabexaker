@@ -48,11 +48,13 @@ Ask me about anything creative, experimental, or technically challenging.
   <tr>
     <td align="center">
       <a href="https://linkedin.com/in/jiannisnw" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="38" width="48" />
+        <img src="https://img.shields.io/badge/LinkedIn-jiannisnw-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a>
     </td>
     <td align="center">
-      <code>dimos.is.dev@gmail.com</code>
+      <a href="mailto:dimos.is.dev@gmail.com">
+        <img src="https://img.shields.io/badge/Email-dimos.is.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      </a>
     </td>
   </tr>
 </table>
