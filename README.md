@@ -57,7 +57,6 @@ Ask me about anything creative, experimental, or technically challenging.
   </tr>
 </table>
 
----
 
 ## 📈 GitHub Analytics & Stats
 
@@ -72,7 +71,6 @@ Ask me about anything creative, experimental, or technically challenging.
   </tr>
 </table>
 
----
 
 ## 🛠️ Languages, Tools & Tech Stack
 
