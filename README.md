@@ -1,57 +1,46 @@
-﻿<h1 align="center">Hi 👋, I'm Ioannis</h1>
+<h1 align="center">Hi 👋, I'm Ioannis</h1>
 
 ## 👨‍💻 About Me
-Software Developer at **PeopleCert** with strong background in **Network Engineering** and specialization in **Wireless Networks**, **IoT Infrastructure Deployment**, and **RF Planning & Geographic Network Design**.
 
-Experienced in designing and operating:
-- Wireless transmission systems (PtP microwave links, sector & cellular antennas)
-- VLAN-based network architectures
-- Telecommunications infrastructure
-- IoT ecosystems and field deployments
-- R&D and network innovation projects
+Software Developer at **PeopleCert** with strong background in **Network Engineering** and specialization in **Wireless Networks**, **IoT Infrastructure Deployment**, **RF Planning**, and **Geographic Network Design**.
 
-Strong **problem-solver mindset** across hardware, software, connectivity, and system reliability.
+Experienced in designing and operating **wireless transmission systems** such as PtP microwave links, sector and cellular antennas, **VLAN-based network architectures**, **telecommunications infrastructure**, **IoT ecosystems**, field deployments, R&D, and network innovation projects.
+
+I approach systems with a **security-first / hacker mentality**, focusing on **security, resilience, segmentation, real-world threat modeling**, and reliable problem solving across hardware, software, connectivity, and system reliability.
 
 ---
 
-## 🛡️ Security-First Mindset
-I approach every system with a **hacker mentality**.  
-Everything I build is designed with **security, resilience, segmentation, and real-world threat modeling** in mind.
+## 🎓 Background, Certifications & Achievements
+
+**Education**
+- **Networks & Telecommunications Degree** — IEK OMIROS Certified
+- **Networks & Computer Applications** — EPAL Certified
+- Network Technician Degree
+- Computer Systems & Application Support
+- Web Design
+- GIS — Geographic Information Systems
+- UAS Pilot License Level 1 & 2
+- Body Piercing — because precision matters everywhere 😄
+
+**Professional Certifications**
+- **PRINCE2 Foundation** — Project Management Certified
+- **C# Developer** — Programming Certified
+- **Networks & Telecommunications Technician** — Specialization Certified
+- **Web Design** — Frontend Development Certified
+- **Geographic Information Systems GIS** — Geospatial Analysis Proficient
+- **UAS Pilot License Level 1 & 2** — Drone Operations Licensed
 
 ---
 
-## 🎓 Background & Skills
-- Network Technician Degree  
-- Computer Systems & Application Support  
-- Web Design  
-- GIS (Geographic Information Systems)  
-- UAS Pilot License Level 1 & 2  
-- Body Piercing (because precision matters everywhere 😄)
+## 🚀 Focus & Collaboration
 
----
+Currently learning **llama.cpp** and **GGUF**.
 
-## 🚀 Currently Learning
+Open to collaborations in **Wireless Networking**, **Cybersecurity & Ethical Hacking**, **Web Application Development**, and **Game Development**.
 
-llama.cpp
-GGUF
+Looking for hands-on cybersecurity collaboration, **Blue Team / Red Team**, with strong networking-oriented practitioners.
 
----
-
-## 🤝 Open to Collaborations
-- Wireless Networking  
-- Cybersecurity & Ethical Hacking  
-- Web Application Development  
-- Game Development  
-
----
-
-## 🛡️ Practice & Growth
-Looking for hands-on cybersecurity collaboration (Blue Team / Red Team) with strong networking-oriented practitioners.
-
----
-
-## 💬 Ask Me About
-Anything creative, experimental, or technically challenging.
+Ask me about anything creative, experimental, or technically challenging.
 
 ---
 
@@ -70,8 +59,6 @@ Anything creative, experimental, or technically challenging.
 
 ---
 
-<br/>
-
 ## 📈 GitHub Analytics & Stats
 
 <table border="0" cellpadding="15" cellspacing="0" align="center" width="100%">
@@ -87,60 +74,39 @@ Anything creative, experimental, or technically challenging.
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🛠️ Languages, Tools & Tech Stack
 
-**Education:**
-- **Networks & Telecommunications Degree** (IEK OMIROS - Certified)
-- **Networks & Computer Applications** (EPAL - Certified)
+### 💻 Languages, Frameworks & Web
 
-**Professional Certifications:**
-- **PRINCE2 Foundation** - Project Management (Certified)
-- **C# Developer** - Programming (Certified)
-- **Networks & Telecommunications Technician** - Specialization (Certified)
-- **Web Design** - Frontend Development (Certified)
-- **Geographic Information Systems (GIS)** - Geospatial Analysis (Proficient)
-- **UAS Pilot License** Level 1 & 2 - Drone Operations (Licensed)
-
----
-
-## 🛠️ Languages and Tools
-
-### 💻 Primary Languages & Frameworks
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C%23](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
-
-### 🎨 Frontend & Web
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34C26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🔧 Backend & Infrastructure
+### 🔧 Backend, Infrastructure, Databases & Dev Tools
+
 ![Node.js](https://img.shields.io/badge/node.js-%2339933f.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
-
-### 🛠️ Dev Tools & Other Tech
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
----
+### Complete Tech Stack
 
-<h3 align="left">Complete Tech Stack:</h3>
 <table>
 	<tr>
 		<td><a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a></td>
@@ -197,6 +163,7 @@ Anything creative, experimental, or technically challenging.
 ---
 
 ## ⚡ Fun Facts
-- Τα πάντα ῥεῖ  _(Everything flows)_
-- Παν μέτρων ἄριστον  _(Everything in moderation)_
+
+- Τα πάντα ῥεῖ _(Everything flows)_
+- Παν μέτρων ἄριστον _(Everything in moderation)_
 - Cats Rule the World 🐱
