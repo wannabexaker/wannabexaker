@@ -42,7 +42,6 @@ Looking for hands-on cybersecurity collaboration, **Blue Team / Red Team**, with
 
 Ask me about anything creative, experimental, or technically challenging.
 
----
 📫 Connect with Me
 
 <table border="0" cellpadding="1" cellspacing="0" align="center" width="100%">
@@ -55,6 +54,7 @@ Ask me about anything creative, experimental, or technically challenging.
     </td>
   </tr>
 </table>
+
 ---
 
 
