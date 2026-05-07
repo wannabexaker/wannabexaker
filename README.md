@@ -46,7 +46,7 @@ Ask me about anything creative, experimental, or technically challenging.
 
 ## 📫 Connect with Me
 
-<table border="0" cellpadding="1" cellspacing="0" align="left" width="100%">
+<table border="0" cellpadding="1" cellspacing="0" align="center" width="100%">
   <tr>
     <td align="left" width="50%">
       <a href="https://linkedin.com/in/jiannisnw" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jiannisnw" height="40" width="50" /></a>
