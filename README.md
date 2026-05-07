@@ -30,23 +30,10 @@ Everything I build is designed with **security, resilience, segmentation, and re
 
 ---
 
-## ⚙️ Interests Beyond Tech
-- Fitness & performance training (gym, calisthenics, armwrestling, home gym)
-- Board sports (skateboard, snowboard)
-- Nutrition science (macros, supplementation)
-- Biology, chemistry, psychology, neuroscience
-- Philosophy & NLP
-
-Enjoy audiobooks, nature, quality wine, and low-carb performance-focused nutrition.
-
----
-
 ## 🚀 Currently Learning
-- Java Spring Boot  
-- React + TypeScript  
-- MongoDB  
-- SMTP & Mail Services  
-- CI/CD Pipelines & Automation  
+
+llama.cpp
+GGUF
 
 ---
 
