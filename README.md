@@ -42,15 +42,17 @@ Looking for hands-on cybersecurity collaboration, **Blue Team / Red Team**, with
 
 Ask me about anything creative, experimental, or technically challenging.
 
-📫 Connect with Me
+## 📫 Connect with Me
 
-<table border="0" cellpadding="1" cellspacing="0" align="center" width="100%">
+<table border="0" cellpadding="10" cellspacing="0" align="center">
   <tr>
-    <td align="left" width="50%">
-      <a href="https://linkedin.com/in/jiannisnw" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jiannisnw" height="40" width="50" /></a>
+    <td align="center">
+      <a href="https://linkedin.com/in/jiannisnw" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="38" width="48" />
+      </a>
     </td>
-    <td align="left" width="50%">
-      <a href="mailto:dimos.is.dev@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="40" width="50" title="Email me" /></a>
+    <td align="center">
+      <code>dimos.is.dev@gmail.com</code>
     </td>
   </tr>
 </table>
