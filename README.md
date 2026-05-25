@@ -15,20 +15,14 @@ I approach systems with a **security-first / hacker mentality**, focusing on **s
 **Education**
 - **Networks & Telecommunications Degree** — IEK OMIROS Certified
 - **Networks & Computer Applications** — EPAL Certified
-- Network Technician Degree
-- Computer Systems & Application Support
-- Web Design
-- GIS — Geographic Information Systems
-- UAS Pilot License Level 1 & 2
-- Body Piercing — because precision matters everywhere 😄
 
 **Professional Certifications**
 - **PRINCE2 Foundation** — Project Management Certified
 - **C# Developer** — Programming Certified
-- **Networks & Telecommunications Technician** — Specialization Certified
 - **Web Design** — Frontend Development Certified
 - **Geographic Information Systems GIS** — Geospatial Analysis Proficient
 - **UAS Pilot License Level 1 & 2** — Drone Operations Licensed
+- **Body Piercing** — because precision matters everywhere 😄
 
 ---
 
