@@ -60,12 +60,7 @@ Ask me about anything creative, experimental, or technically challenging.
 
 <table border="0" cellpadding="10" cellspacing="0" align="center" width="100%">
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/wannabexaker" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wannabexaker&layout=compact&theme=dark&hide_border=true" height="165" alt="Top Languages" />
-      </a>
-    </td>
-    <td align="center" width="50%">
+    <td align="center" width="60%">
       <a href="https://git.io/streak-stats" target="_blank">
         <img src="https://streak-stats.demolab.com/?user=wannabexaker&theme=dark&hide_border=true" height="165" alt="GitHub Streak" />
       </a>
